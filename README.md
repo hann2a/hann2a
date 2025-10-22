@@ -6,8 +6,6 @@ Let's get started
   <img src="https://render.gitanimals.org/lines/hann2a?pet-id=1" width="1000" height="120"/>
 </a>
 
-Tistory: https://hann2a.tistory.com/
-
 <!-- 3D 잔디 -->
 <img src="https://raw.githubusercontent.com/hann2a/hann2a/main/dist/metrics-6m.svg" width="420">
 <!--
